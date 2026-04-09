@@ -1,6 +1,6 @@
 # analise-ambiental-cascavel
 🌍 Monitoramento Ambiental via Satélite: NDVI e NDWI (2005-2025)
-Este repositório contém um script em Python desenvolvido para o Google Earth Engine. Ele foi criado originalmente para auxiliar no TCC de um colega (Cascavel - CE), mas foi estruturado de forma totalmente adaptável para qualquer região do planeta.
+Este repositório contém um script em Python desenvolvido para o Google Earth Engine. Ele foi criado originalmente para auxiliar em um TCC (Cascavel - CE), mas foi estruturado de forma totalmente adaptável para qualquer região do planeta.
 
 🚀 O que este código faz?
 O script processa imagens dos satélites Landsat 5 e 8 para gerar dois índices fundamentais:
